@@ -1,6 +1,6 @@
 # Serial Data Logger Arduino to UISS software
 
-This Python script is a simple serial data logger that reads data from a serial port, processes it, and logs it to a text file. It's designed to work with a device connected to a serial port (e.g., an Arduino) that sends data in a specific format.
+This Python script is a simple serial data logger that reads data from a serial port, processes it, and logs it to a text file. It's designed to work with a device connected to a serial port (e.g., an Arduino) that sends data in a specific format. The application here is to read wx data from Arduino, save to file to be used by UISS APRS software.
 
 ## Requirements
 
